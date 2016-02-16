@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XExpandablelistview</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">本Demo用于技术交流\n联系人：林鹏\nQQ:1098919606\nEmail:jkylin@foxmail.com  </string>
+</resources>
